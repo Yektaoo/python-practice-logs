@@ -1,1 +1,1 @@
-# python-practice-logs
+# python-practice-logs اگر با پایتون کار می‌کنید، لیست تمرین‌هایی که انجام می‌دهید.
